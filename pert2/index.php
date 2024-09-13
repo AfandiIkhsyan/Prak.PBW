@@ -44,8 +44,8 @@
 <h2>Getting Married</h2>
 
 <div class="links">
-    <a href="/thewedding/isibukutamu.php">Isi Buku Tamu</a>
-    <a href="/thewedding/lihatbukutamu.php">Lihat Buku Tamu</a>
+    <a href="/pert2/isibukutamu.php">Isi Buku Tamu</a>
+    <a href="/pert2/lihatbukutamu.php">Lihat Buku Tamu</a>
 </div>
 </body>
 </html>
