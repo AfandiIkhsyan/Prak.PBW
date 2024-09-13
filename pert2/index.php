@@ -40,7 +40,7 @@
 <body>
 <h1>The Wedding</h1>
 <h2>Mas Guntur dan Mbak Alia</h2>
-<img src="/thewedding/images/image.webp" alt="Mempelai">
+<img src="/pert2/images/image.webp" alt="Mempelai">
 <h2>Getting Married</h2>
 
 <div class="links">
