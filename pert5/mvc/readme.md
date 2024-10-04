@@ -33,6 +33,9 @@ Aplikasi Penjualan Barang adalah sistem sederhana berbasis web yang digunakan un
 ### Edit Barang
 ![Edit Barang](screenshots/edit.png)
 
+### deleted Barang
+![Edit Barang](screenshots/delete.png)
+
 ## Kontribusi
 Dibuat oleh Afandi Ikhsyan Al Karim (4522210032).
 
