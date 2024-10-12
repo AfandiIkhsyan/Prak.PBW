@@ -46,17 +46,12 @@ Untuk menjalankan aplikasi ini, pastikan Anda telah memenuhi prasyarat berikut:
 
 ## Screenshot
 Berikut adalah beberapa screenshot dari aplikasi:
-1. **Halaman landing**:
-2. **Formulir Buku Tamu**:
-2. **Tampilan Komentar**:
+![Form Komentar](belajar-laravel/resources/img/form_komentar.png)
+![Landing Page](belajar-laravel/resources/img/index.png)
+![List Komentar](belajar-laravel/resources/img/list_komentar.png)
 
 ## Kesimpulan dan Saran
 Aplikasi ini telah berhasil dibangun dan berjalan dengan baik. Beberapa saran untuk pengembangan lebih lanjut:
 1. **Validasi Input Lebih Lanjut**: Menambahkan validasi lebih detail pada formulir agar pengguna hanya dapat memasukkan data yang benar.
 2. **Desain Antarmuka**: Pengembangan antarmuka agar lebih menarik dan responsif.
 1. **Keamanan**: Menambahkan fitur keamanan seperti CSRF protection dan validasi server-side yang lebih ketat.
-
-## Link Aplikasi
-![Form Komentar](belajar-laravel/resources/img/form_komentar.png)
-![Landing Page](belajar-laravel/resources/img/index.png)
-![List Komentar](belajar-laravel/resources/img/list_komentar.png)
